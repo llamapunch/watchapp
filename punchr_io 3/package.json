@@ -1,0 +1,40 @@
+{
+    "author": "jamesman45@gmail.com",
+    "dependencies": {},
+    "keywords": [],
+    "name": "punchr.io",
+    "pebble": {
+        "displayName": "PUNCHR.IO",
+        "enableMultiJS": true,
+        "messageKeys": [],
+        "projectType": "native",
+        "resources": {
+            "media": [
+                {
+                    "file": "images/FistIcon",
+                    "menuIcon": true,
+                    "name": "FIST_ICON",
+                    "targetPlatforms": null,
+                    "type": "bitmap"
+                },
+                {
+                    "file": "images/BestFist",
+                    "name": "BEST_FIST",
+                    "targetPlatforms": null,
+                    "type": "bitmap"
+                }
+            ]
+        },
+        "sdkVersion": "3",
+        "targetPlatforms": [
+            "aplite",
+            "basalt",
+            "chalk"
+        ],
+        "uuid": "584577fd-63ea-4040-b7bb-bea0425938ca",
+        "watchapp": {
+            "watchface": false
+        }
+    },
+    "version": "1.0.0"
+}
